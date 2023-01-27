@@ -1,5 +1,3 @@
-# Simulation-of-a-Fun-Fair-Payment-System
-CmpE 322 - Operating Systems Project#3
 # Vending Machine Simulation
 This project simulates the behavior of vending machines and customers using multi-threading in C++. The program reads a CSV file that contains customer data, such as sleep time, vending machine number, company name, and amount. The program then simulates the customer's interaction with the vending machine using threads, and writes a log file of the simulation.
 
