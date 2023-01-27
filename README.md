@@ -1,5 +1,5 @@
 # Vending Machine Simulation
-This project simulates the behavior of vending machines and customers using multi-threading in C++. The program reads a CSV file that contains customer data, such as sleep time, vending machine number, company name, and amount. The program then simulates the customer's interaction with the vending machine using threads, and writes a log file of the simulation.
+This project simulates the behavior of vending machines and customers using multi-threading in C++. The program reads a txt file that contains customer data, such as sleep time, vending machine number, company name, and amount. The program then simulates the customer's interaction with the vending machine using threads, and writes a log file of the simulation.
 
 ## Getting Started
 To run the program, you will need to have a C++ compiler installed on your machine. The program also requires the following libraries:
